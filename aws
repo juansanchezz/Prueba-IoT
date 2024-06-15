@@ -1,4 +1,4 @@
-<mxfile modified="2024-06-15T19:17:36.129Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="MWCONUv1ryT2wI_6Tgp-" version="24.5.4" type="github">
+<mxfile modified="2024-06-15T19:19:01.271Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="8aJB3DKx7yIKIkNpW5sU" version="24.5.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Infra_estructura_clod AWS">
     <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zWgtmTROGk7kPElNoaLs-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" vertex="1" parent="zWgtmTROGk7kPElNoaLs-1">
-          <mxGeometry x="10" y="127" width="53" height="53" as="geometry" />
+          <mxGeometry x="10" y="140" width="53" height="53" as="geometry" />
         </mxCell>
         <mxCell id="zWgtmTROGk7kPElNoaLs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zWgtmTROGk7kPElNoaLs-1" source="zWgtmTROGk7kPElNoaLs-10" target="zWgtmTROGk7kPElNoaLs-19">
           <mxGeometry relative="1" as="geometry">

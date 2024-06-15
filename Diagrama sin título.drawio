@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T03:51:38.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="1qCCyOkKaq6W2yjW-Bjo" version="24.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-15T03:52:04.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="rh7n6Bej2bKhYtk1ahf9" version="24.5.4" type="github" pages="4">
   <diagram id="DJzU_3AY8pHOXBsRuulV" name="Arqui_facial_IoT">
     <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Funcionalidad_registro" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -60,6 +60,9 @@
         <mxCell id="lg7b5vypAbEKTejt9miM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="lg7b5vypAbEKTejt9miM-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="507" y="440" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lg7b5vypAbEKTejt9miM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lg7b5vypAbEKTejt9miM-9" target="lg7b5vypAbEKTejt9miM-15" edge="1">
@@ -116,7 +119,7 @@
           <mxGeometry x="1340" y="412" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lg7b5vypAbEKTejt9miM-34" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="417" y="407" width="65" height="60" as="geometry" />
+          <mxGeometry x="420" y="407" width="65" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

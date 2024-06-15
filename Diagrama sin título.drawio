@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T16:52:25.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="b5D-qg-P4sdVm89bT5Ql" version="24.5.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-15T16:57:48.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="M9UssRpZ905eJlumdQ6Q" version="24.5.4" type="github" pages="7">
   <diagram id="DJzU_3AY8pHOXBsRuulV" name="Arqui_facial_IoT">
     <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -422,8 +422,8 @@
         <mxCell id="UNjFClo2ZBNxbCi_F4sI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UNjFClo2ZBNxbCi_F4sI-12" target="UNjFClo2ZBNxbCi_F4sI-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UNjFClo2ZBNxbCi_F4sI-12" value="Bases de datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343.5" y="585" width="150" height="100" as="geometry" />
+        <mxCell id="UNjFClo2ZBNxbCi_F4sI-12" value="Bases de datos (SQL)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="580" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UNjFClo2ZBNxbCi_F4sI-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

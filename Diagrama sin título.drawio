@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T03:26:47.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="8jdtpKB-wKU1_PrKktnk" version="24.5.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-15T03:29:04.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="YIRZdIJ0hGITTCe_7tfQ" version="24.5.4" type="github" pages="5">
   <diagram id="DJzU_3AY8pHOXBsRuulV" name="Arqui_facial_IoT">
-    <mxGraphModel dx="1848" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1540" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,8 +25,8 @@
         <mxCell id="21rCW54WJiWP0vduGbVb-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.hardware_board;" vertex="1" parent="1">
           <mxGeometry x="760" y="346" width="136" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="21rCW54WJiWP0vduGbVb-9" value="La Microcontroladora recibe los eventos de acceso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="490" width="290" height="30" as="geometry" />
+        <mxCell id="21rCW54WJiWP0vduGbVb-9" value="La Microcontroladora recibe y envía los eventos de acceso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="490" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="21rCW54WJiWP0vduGbVb-10" value="Eventos de acceso atreves del protocolo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="527" y="362" width="240" height="30" as="geometry" />

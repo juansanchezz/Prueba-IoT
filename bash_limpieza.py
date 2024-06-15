@@ -2,43 +2,41 @@ import os
 import subprocess
 
 # Función para ejecutar comandos en la terminal y obtener la salida
-def run_command(command):
+def correr_commando(command):
     result = subprocess.run(command, shell=True, capture_output=True, text=True)
     return result.stdout.strip()
 
 # Función para verificar el espacio en disco
 def check_disk_space():
-    disk_usage = run_command("df -h")
-    print("Disk Usage:\n", disk_usage)
+    disk_usage = correr_commando("df -h")
+    print("uso del disco:\n", disk_usage)
 
 # Función para identificar archivos grandes
 def find_large_files(directory, size):
     command = f"sudo find {directory} -type f -size +{size}M"
-    large_files = run_command(command)
-    print(f"Large files in {directory}:\n", large_files)
+    large_files = correr_commando(command)
+    print(f"Archivos mas grandes en {directory}:\n", large_files)
     return large_files.splitlines()
 
 # Función para limpiar archivos temporales y caches
 def clean_temp_and_cache():
-    run_command("sudo apt-get clean")
-    run_command("sudo rm -rf /tmp/*")
-    run_command("sudo rm -rf /var/tmp/*")
+    correr_commando("sudo apt-get clean")
+    correr_commando("sudo rm -rf /tmp/*")
+    correr_commando("sudo rm -rf /var/tmp/*")
 
 # Función para desinstalar paquetes innecesarios
 def remove_unnecessary_packages():
-    run_command("sudo apt-get autoremove -y")
+    correr_commando("sudo apt-get autoremove -y")
 
 # Función para comprimir archivos grandes
 def compress_large_files(files):
     for file in files:
-        run_command(f"gzip {file}")
+        correr_commando(f"gzip {file}")
 
 # Función para verificar el uso de inodos
 def check_inodes():
-    inodes_usage = run_command("df -i")
-    print("Inodes Usage:\n", inodes_usage)
-
-# Función principal
+    inodes_usage = correr_commando("df -i")
+    print("uso de los inodos:\n", inodes_usage)
 def main():
     # Verificar el espacio en disco
     check_disk_space()
